@@ -1,6 +1,6 @@
 cask "reveal" do
-  version "0.4.1"
-  sha256 "11aa6fdbb7fe7d3526c44806918427e3a71dd15194be18bf48e9eea55f8758f2"
+  version "0.4.2"
+  sha256 "d4f4ffc09d3022fbf6fda0a4b26508ec82f50bc408ff3f2706f6eb7d5b3d09c6"
 
   url "https://github.com/knst0/reveal/releases/download/v#{version}/reveal-#{version}-macos.dmg"
   name "Reveal"
